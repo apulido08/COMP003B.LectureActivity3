@@ -5,6 +5,7 @@ namespace COMP003B.LectureActivity3.Models
     public class Product
     {
         // Add the necessary attributes to the properties of the Product class
+
         public int Id { get; set; }
 
         [Required]
